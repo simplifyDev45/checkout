@@ -1,0 +1,691 @@
+.new-text-input {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.new-text-input .business-name {
+  position: relative;
+}
+
+.new-text-input .span {
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+}
+
+.new-text-input .text-wrapper {
+  color: #000000;
+  font-family: var(--BODY-REGULAR-font-family);
+  font-size: var(--BODY-REGULAR-font-size);
+  font-style: var(--BODY-REGULAR-font-style);
+  font-weight: var(--BODY-REGULAR-font-weight);
+  letter-spacing: var(--BODY-REGULAR-letter-spacing);
+  line-height: var(--BODY-REGULAR-line-height);
+}
+
+.new-text-input .text-wrapper-2 {
+  color: #de1f1f;
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+}
+
+.new-text-input .div {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input .text-wrapper-3 {
+  color: #02031f;
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+}
+
+.new-text-input .frame-2 {
+  align-items: center;
+  display: flex;
+  position: relative;
+  width: 300px;
+}
+
+.new-text-input .buyhomes-nigeria {
+  margin-top: -1px;
+  position: relative;
+}
+
+.new-text-input .div-2 {
+  position: relative;
+}
+
+.new-text-input .NG-nigeria {
+  height: 15px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.new-text-input .text-wrapper-4 {
+  color: var(--gray-400);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input .instance-node {
+  height: 16px !important;
+  position: relative !important;
+  width: 16px !important;
+}
+
+.new-text-input .element {
+  position: relative;
+}
+
+.new-text-input .text-wrapper-5 {
+  color: var(--red-700);
+  font-family: var(--caption-1-font-family);
+  font-size: var(--caption-1-font-size);
+  font-style: var(--caption-1-font-style);
+  font-weight: var(--caption-1-font-weight);
+  letter-spacing: var(--caption-1-letter-spacing);
+  line-height: var(--caption-1-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input .div-wrapper {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--text-200);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  height: 40px;
+  justify-content: center;
+  padding: 12px 10px;
+  position: relative;
+}
+
+.new-text-input .text-wrapper-6 {
+  color: var(--text-700);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+  margin-bottom: -3px;
+  margin-top: -5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input .text-wrapper-7 {
+  color: var(--text-700);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input .icon-px-caretdown {
+  height: 17px !important;
+  position: relative !important;
+  width: 17px !important;
+}
+
+.new-text-input .frame-3 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--text-200);
+  border-radius: 4px;
+  display: flex;
+  height: 48px;
+  justify-content: space-between;
+  padding: 12px 10px;
+  position: relative;
+  width: 300px;
+}
+
+.new-text-input .text-wrapper-8 {
+  color: var(--red-800);
+  font-family: var(--caption-font-family);
+  font-size: var(--caption-font-size);
+  font-style: var(--caption-font-style);
+  font-weight: var(--caption-font-weight);
+  letter-spacing: var(--caption-letter-spacing);
+  line-height: var(--caption-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input.dropdown {
+  gap: 4px;
+}
+
+.new-text-input.phone-number {
+  gap: 4px;
+}
+
+.new-text-input.OTP {
+  gap: 4px;
+}
+
+.new-text-input.variant-5 {
+  gap: 4px;
+}
+
+.new-text-input.uploaded {
+  gap: 4px;
+}
+
+.new-text-input.list {
+  gap: 2px;
+}
+
+.new-text-input.social-media {
+  gap: 4px;
+}
+
+.new-text-input.upload {
+  gap: 4px;
+}
+
+.new-text-input.default {
+  gap: 4px;
+}
+
+.new-text-input.error-or-info {
+  gap: 4px;
+}
+
+.new-text-input.amount {
+  gap: 4px;
+}
+
+.new-text-input.dropdown .business-name {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input.phone-number .business-name {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input.OTP .business-name {
+  color: var(--text-900);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input.variant-5 .business-name {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input.uploaded .business-name {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+}
+
+.new-text-input.list .business-name {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input.social-media .business-name {
+  color: #000000;
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input.upload .business-name {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+}
+
+.new-text-input.default .business-name {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input.amount .business-name {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input.dropdown .span {
+  color: #02031f;
+}
+
+.new-text-input.phone-number .span {
+  color: #02031f;
+}
+
+.new-text-input.OTP .span {
+  color: #02031f;
+}
+
+.new-text-input.variant-5 .span {
+  color: #040434;
+}
+
+.new-text-input.uploaded .span {
+  color: #02031f;
+}
+
+.new-text-input.list .span {
+  color: #02031f;
+}
+
+.new-text-input.social-media .span {
+  color: #02031f;
+}
+
+.new-text-input.upload .span {
+  color: #02031f;
+}
+
+.new-text-input.default .span {
+  color: #02031f;
+}
+
+.new-text-input.error-or-info .span {
+  color: #02031f;
+}
+
+.new-text-input.amount .span {
+  color: #02031f;
+}
+
+.new-text-input.dropdown .frame-2 {
+  border: 1px solid;
+  border-color: var(--text-200);
+  border-radius: 4px;
+  height: 48px;
+  justify-content: space-between;
+  padding: 12px 10px;
+}
+
+.new-text-input.phone-number .frame-2 {
+  border: 1px solid;
+  border-color: var(--text-200);
+  border-radius: 4px;
+  gap: 10px;
+  height: 48px;
+  padding: 12px 10px;
+}
+
+.new-text-input.OTP .frame-2 {
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+}
+
+.new-text-input.variant-5 .frame-2 {
+  border: 1px solid;
+  border-color: var(--text-200);
+  border-radius: 4px;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 12px 10px;
+}
+
+.new-text-input.uploaded .frame-2 {
+  border: 1px dashed;
+  border-color: var(--text-200);
+  border-radius: 4px;
+  height: 48px;
+  justify-content: space-between;
+  padding: 12px 10px;
+}
+
+.new-text-input.list .frame-2 {
+  border-radius: 4px;
+  flex: 0 0 auto;
+  gap: 10px;
+}
+
+.new-text-input.social-media .frame-2 {
+  border: 1px solid;
+  border-color: var(--text-200);
+  border-radius: 4px;
+  gap: 10px;
+  height: 48px;
+  padding: 12px 10px;
+}
+
+.new-text-input.upload .frame-2 {
+  border: 1px dashed;
+  border-color: var(--text-200);
+  border-radius: 4px;
+  gap: 10px;
+  height: 48px;
+  padding: 12px 10px;
+}
+
+.new-text-input.default .frame-2 {
+  border: 1px solid;
+  border-color: var(--text-200);
+  border-radius: 4px;
+  gap: 10px;
+  height: 48px;
+  padding: 12px 10px;
+}
+
+.new-text-input.amount .frame-2 {
+  border: 1px solid;
+  border-color: var(--text-200);
+  border-radius: 4px;
+  gap: 10px;
+  height: 48px;
+  padding: 12px 10px;
+}
+
+.new-text-input.dropdown .buyhomes-nigeria {
+  color: var(--text-700);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+}
+
+.new-text-input.phone-number .buyhomes-nigeria {
+  color: var(--text-700);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+}
+
+.new-text-input.OTP .buyhomes-nigeria {
+  color: var(--text-700);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+}
+
+.new-text-input.variant-5 .buyhomes-nigeria {
+  color: var(--text-700);
+  flex: 1;
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+}
+
+.new-text-input.uploaded .buyhomes-nigeria {
+  color: var(--text-700);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+}
+
+.new-text-input.list .buyhomes-nigeria {
+  color: var(--text-700);
+  flex: 1;
+  font-family: var(--BODY-REGULAR-font-family);
+  font-size: var(--BODY-REGULAR-font-size);
+  font-style: var(--BODY-REGULAR-font-style);
+  font-weight: var(--BODY-REGULAR-font-weight);
+  letter-spacing: var(--BODY-REGULAR-letter-spacing);
+  line-height: var(--BODY-REGULAR-line-height);
+}
+
+.new-text-input.social-media .buyhomes-nigeria {
+  color: var(--text-700);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+}
+
+.new-text-input.upload .buyhomes-nigeria {
+  color: var(--neutral-white800);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input.default .buyhomes-nigeria {
+  color: var(--text-700);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input.error-or-info .buyhomes-nigeria {
+  color: var(--text-700);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+}
+
+.new-text-input.amount .buyhomes-nigeria {
+  color: var(--text-700);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+}
+
+.new-text-input.phone-number .div-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5px;
+}
+
+.new-text-input.uploaded .div-2 {
+  color: var(--text-700);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input.social-media .div-2 {
+  color: var(--gray-400);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input.amount .div-2 {
+  color: var(--gray-400);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input.phone-number .element {
+  color: var(--text-700);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input.uploaded .element {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.new-text-input.social-media .element {
+  color: var(--text-700);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.new-text-input.amount .element {
+  color: var(--text-700);
+  font-family: var(--BODY-SMALL-font-family);
+  font-size: var(--BODY-SMALL-font-size);
+  font-style: var(--BODY-SMALL-font-style);
+  font-weight: var(--BODY-SMALL-font-weight);
+  letter-spacing: var(--BODY-SMALL-letter-spacing);
+  line-height: var(--BODY-SMALL-line-height);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
