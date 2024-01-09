@@ -1,0 +1,1 @@
+export { IconPxWrapper } from "./IconPxWrapper";

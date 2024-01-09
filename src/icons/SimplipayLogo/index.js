@@ -1,0 +1,1 @@
+export { SimplipayLogo } from "./SimplipayLogo";

@@ -1,0 +1,1 @@
+export { NgNigeria } from "./NgNigeria";
