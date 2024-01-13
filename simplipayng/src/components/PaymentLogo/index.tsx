@@ -1,1 +1,0 @@
-export { PaymentLogo } from "./PaymentLogo";

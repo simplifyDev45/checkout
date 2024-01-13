@@ -1,1 +1,0 @@
-export { NewTextInput } from "./NewTextInput";
